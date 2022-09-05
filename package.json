@@ -1,0 +1,26 @@
+{
+  "name": "express-basics",
+  "version": "1.0.0",
+  "description": "hi",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepu-S-A/express-basics.git"
+  },
+  "author": "Deepu S A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepu-S-A/express-basics/issues"
+  },
+  "homepage": "https://github.com/Deepu-S-A/express-basics#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
